@@ -1,0 +1,183 @@
+[
+  {
+    "name": "热销榜",
+    "foods": [
+      {
+        "name": "1",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "2",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "11",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "12",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      }
+    ]
+  },
+  {
+    "name": "特色菜",
+    "foods": [
+      {
+        "name": "3",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "4",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "5",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },
+      {
+        "name": "31",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "41",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "51",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      }
+    ]
+  },
+  {
+    "name": "小吃",
+    "foods": [
+      {
+        "name": "62",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "72",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "82",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "92",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "61",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "71",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "81",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      },{
+        "name": "91",
+        "description": "蜂鸟专送",
+        "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
+        "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750",
+        "rating": "4.5",
+        "sellCount": "333",
+        "price": "25",
+        "oldPrice": "30"
+      }
+    ]
+  }
+]
